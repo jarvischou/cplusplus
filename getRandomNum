@@ -1,0 +1,10 @@
+#ifndef getRandomNum_H
+#define getRandomNum_H
+
+#include<cstdlib>
+#include<ctime>
+
+void getRandomSeed();
+int getRandomNum();
+
+#endif
